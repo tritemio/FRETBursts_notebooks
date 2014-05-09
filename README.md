@@ -2,7 +2,7 @@ What's this?
 ------------
 
 This repository contains IPython Notebook tutorials for the
-[FRETBursts softawre](https://github.com/tritemio/FRETBursts).
+[FRETBursts software](https://github.com/tritemio/FRETBursts).
 
 The tutorial can be viewed online or downloaded and executed locally.
 
