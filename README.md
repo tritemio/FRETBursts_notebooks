@@ -16,3 +16,4 @@ List of tutorials
 
 * [FRETBursts - usALEX Workflow](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%2520usALEX%2520Workflow.ipynb)
 * [FRETBursts - 8-spot smFRET analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%25208-spot%2520smFRET%2520analysis.ipynb)
+* [FRETBursts - nsALEX example](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%20-%20nsALEX%20example.ipynb)
