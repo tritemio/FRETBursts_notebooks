@@ -2,11 +2,12 @@ What's this?
 ------------
 
 This repository contains IPython Notebook tutorials for the
-[FRETBursts software](https://github.com/tritemio/FRETBursts).
+[FRETBursts](https://github.com/tritemio/FRETBursts) burst analysis software.
 
-The tutorial can be viewed online or downloaded and executed locally.
+The tutorial can be viewed online (see links below) or downloaded and executed
+locally (use the **Download ZIP** button on the right).
 
-To execute the tutorial you need to donwload the following datasets:
+The datasets used by the tutorials can be found here:
 
 * [A. Ingargiola, S.Chung (2014): smFRET example datasets for the FRETBursts software]
 (http://dx.doi.org/10.6084/m9.figshare.1019906)
@@ -14,6 +15,6 @@ To execute the tutorial you need to donwload the following datasets:
 List of tutorials
 -----------------
 
-* [FRETBursts - usALEX Workflow](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%2520usALEX%2520Workflow.ipynb)
-* [FRETBursts - 8-spot smFRET analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%25208-spot%2520smFRET%2520analysis.ipynb)
-* [FRETBursts - nsALEX example](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%20-%20nsALEX%20example.ipynb)
+* [FRETBursts - us-ALEX smFRET burst analysis workflow](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%2520us-ALEX%2520smFRET%2520burst%2520analysis%2520workflow.ipynb)
+* [FRETBursts - 8-spot smFRET burst analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%25208-spot%2520smFRET%2520burst%2520analysis.ipynb)
+* [FRETBursts - ns-ALEX example](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
