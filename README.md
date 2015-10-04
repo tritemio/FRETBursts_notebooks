@@ -1,13 +1,20 @@
 What's this?
 ------------
 
-This repository contains IPython Notebook tutorials for the
+This repository contains Jupyter/IPython Notebook tutorials for the
 [FRETBursts](https://github.com/tritemio/FRETBursts) burst analysis software.
+The same notebooks are included in the
+[FRETBursts source](https://github.com/tritemio/FRETBursts/tree/master/notebooks)
+but the version here contains all the execution outputs (text, tables and figures)
+and are therefore easier to read as tutorials.
 
-The tutorial can be viewed online (see links below) or downloaded and executed
-locally (use the **Download ZIP** button on the right).
+To view the tutorials online see links below. You can also download and 
+execute the notebooks locally (use the **Download ZIP** button on the right),
+but to do that you also need to 
+[install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
 
-The datasets used by the tutorials can be found here:
+The datasets used by the tutorials (which are automatically downloaded on first notebook execution) 
+can be found here:
 
 * [A. Ingargiola, S.Chung (2014): smFRET example datasets for the FRETBursts software]
 (http://dx.doi.org/10.6084/m9.figshare.1019906)
