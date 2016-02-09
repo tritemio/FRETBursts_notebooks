@@ -27,3 +27,4 @@ List of tutorials
 * [FRETBursts - ns-ALEX example](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
 * [Example - usALEX histogram](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20usALEX%20histogram.ipynb)
 * [Example - Working with timestamps and bursts](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
+* [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
