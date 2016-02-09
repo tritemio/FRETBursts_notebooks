@@ -9,7 +9,7 @@ but the version here contains all the execution outputs (text, tables and figure
 and are therefore easier to read as tutorials.
 
 To view the tutorials online see links below. You can also download and 
-execute the notebooks locally (use the **Download ZIP** button on the right),
+execute the notebooks locally (use the **Download ZIP** button),
 but to do that you also need to 
 [install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
 
