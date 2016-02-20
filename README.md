@@ -1,26 +1,20 @@
+FRETBursts Notebooks
+====================
+
 What's this?
 ------------
 
 This repository contains Jupyter/IPython Notebook tutorials for the
-[FRETBursts](https://github.com/tritemio/FRETBursts) burst analysis software.
+[FRETBursts](http://tritemio.github.io/FRETBursts/) burst analysis software.
 The same notebooks are included in the
 [FRETBursts source](https://github.com/tritemio/FRETBursts/tree/master/notebooks)
 but the version here contains all the execution outputs (text, tables and figures)
-and are therefore easier to read as tutorials.
+and are therefore easier to read.
 
-To view the tutorials online see links below. You can also download and 
-execute the notebooks locally (use the **Download ZIP** button),
-but to do that you also need to 
-[install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
+View Online
+-----------
 
-The datasets used by the tutorials (which are automatically downloaded on first notebook execution) 
-can be found here:
-
-* [A. Ingargiola, S.Chung (2014): smFRET example datasets for the FRETBursts software]
-(http://dx.doi.org/10.6084/m9.figshare.1019906)
-
-List of tutorials
------------------
+Your can read each tutorial online at the following links:
 
 * [FRETBursts - us-ALEX smFRET burst analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%2520us-ALEX%2520smFRET%2520burst%2520analysis.ipynb) *(start here)*
 * [FRETBursts - 8-spot smFRET burst analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%25208-spot%2520smFRET%2520burst%2520analysis.ipynb)
@@ -28,3 +22,15 @@ List of tutorials
 * [Example - usALEX histogram](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20usALEX%20histogram.ipynb)
 * [Example - Working with timestamps and bursts](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
 * [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
+
+Download
+--------
+
+To download the tutorial for local execution use the **Download ZIP** button.
+You also need to[install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
+
+Datasets
+--------
+
+FRETBursts notebooks use [public smFRET datasets](https://dx.doi.org/10.6084/m9.figshare.1456362.v13) 
+that are automatically downloaded the first time each notebook is executed.
