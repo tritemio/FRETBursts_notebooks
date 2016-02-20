@@ -27,7 +27,7 @@ Download
 --------
 
 To download the tutorial for local execution use the **Download ZIP** button.
-You also need to[install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
+You also need to [install FRETBursts](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
 
 Datasets
 --------
