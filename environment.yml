@@ -1,7 +1,7 @@
 name: fretbursts_env
 dependencies:
 - cycler=0.10.0=py35_0
-- cython=0.23.4=py35_1
+- cython=0.23.4=py35_0
 - freetype=2.5.5=0
 - fretbursts=0.5.3=py35_0
 - funcsigs=0.4=py35_0
