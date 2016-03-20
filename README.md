@@ -22,6 +22,7 @@ Your can read each tutorial online at the following links:
 * [Example - usALEX histogram](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20usALEX%20histogram.ipynb)
 * [Example - Working with timestamps and bursts](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
 * [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
+* [Example - 2CDE Method.ipynb](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%202CDE%20Method.ipynb)
 
 Run Online
 ----------
