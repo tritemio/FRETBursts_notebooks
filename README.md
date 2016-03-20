@@ -27,7 +27,7 @@ Your can read each tutorial online at the following links:
 Run Online
 ----------
 
-Run the notebooks without any installation by clicking on the following button:
+Run the FRETBursts notebooks without any installation by clicking on the following button:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tritemio/FRETBursts_notebooks)
 
