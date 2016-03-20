@@ -31,14 +31,14 @@ Run the notebooks without any installation by clicking on the following button:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tritemio/FRETBursts_notebooks)
 
-Once the application started (it may take a few seconds) click on the *notebooks* folder, then on the notebook named *First Steps*.
+Once the application starts (it may take a few seconds) click on the *notebooks* folder, then on the notebook named *First Steps*.
 
 > This service courtesy of [MyBinder.org](http://mybinder.org/)
 
 Download
 --------
 
-To download the tutorial for local execution use the [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip) button.
+To download the all the tutorials for local execution use the [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip) button.
 
 To run these notebooks you also need to install **FRETBursts** (see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html)).
 
