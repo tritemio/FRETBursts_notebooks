@@ -1,7 +1,7 @@
 name: fretbursts_notebooks_env
 
 channels:
-- tritemio
+- conda-forge
 
 dependencies:
 - cycler=0.10.0
@@ -48,4 +48,3 @@ dependencies:
 - zlib=1.2.8
 - pip:
   - tables==3.2.2
-
