@@ -11,18 +11,27 @@ The same notebooks are included in the
 but the version here contains all the execution outputs (text, tables and figures)
 and are therefore easier to read.
 
+Download
+--------
+
+To download the all the tutorials for local execution use the [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip) button.
+
+To run these notebooks you also need to install **FRETBursts** (see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html)).
+
+
 View Online
 -----------
 
 Your can read each tutorial online at the following links:
 
-* [FRETBursts - us-ALEX smFRET burst analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%2520us-ALEX%2520smFRET%2520burst%2520analysis.ipynb) *(start here)*
-* [FRETBursts - 8-spot smFRET burst analysis](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%2520-%25208-spot%2520smFRET%2520burst%2520analysis.ipynb)
-* [FRETBursts - ns-ALEX example](http://nbviewer.ipython.org/urls/raw.github.com/tritemio/FRETBursts_notebooks/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
-* [Example - usALEX histogram](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20usALEX%20histogram.ipynb)
-* [Example - Working with timestamps and bursts](http://nbviewer.ipython.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
+* [FRETBursts - us-ALEX smFRET burst analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20us-ALEX%20smFRET%20burst%20analysis.ipynb) *(start here)*
+* [FRETBursts - ns-ALEX example](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
+* [FRETBursts - 8-spot smFRET burst analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%208-spot%20smFRET%20burst%20analysis.ipynb)
+* [Example - usALEX histogram](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20usALEX%20histogram.ipynb)
+* [Example - Working with timestamps and bursts](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Working%20with%20timestamps%20and%20bursts.ipynb)
 * [Example - Burst Variance Analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Burst%20Variance%20Analysis.ipynb)
 * [Example - 2CDE Method.ipynb](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%202CDE%20Method.ipynb)
+* [Example - Exporting Burst Data Including Timestamps](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/Example%20-%20Exporting%20Burst%20Data%20Including%20Timestamps.ipynb)
 
 Run Online
 ----------
@@ -34,13 +43,6 @@ Run the FRETBursts notebooks without any installation by clicking on the followi
 Once the application starts (it may take a few seconds) click on the *notebooks* folder, then on the notebook named *First Steps*.
 
 > This service courtesy of [MyBinder.org](http://mybinder.org/)
-
-Download
---------
-
-To download the all the tutorials for local execution use the [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip) button.
-
-To run these notebooks you also need to install **FRETBursts** (see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html)).
 
 Datasets
 --------
