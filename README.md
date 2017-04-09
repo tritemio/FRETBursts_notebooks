@@ -4,7 +4,7 @@ FRETBursts Notebooks
 What's this?
 ------------
 
-This repository contains Jupyter/IPython Notebook tutorials for the
+This repository contains Jupyter Notebook tutorials for the
 [FRETBursts](http://tritemio.github.io/FRETBursts/) burst analysis software.
 The same notebooks are included in the
 [FRETBursts source](https://github.com/tritemio/FRETBursts/tree/master/notebooks)
@@ -14,15 +14,15 @@ and are therefore easier to read.
 Download
 --------
 
-To download the all the tutorials for local execution use the [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip) button.
+Direct download of all FRETBursts notebooks/tutorials: [**Download ZIP**](https://github.com/tritemio/FRETBursts_notebooks/archive/master.zip).
 
-To run these notebooks you also need to install **FRETBursts** (see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html)).
+To install **FRETBursts** see [FRETBursts Install instructions](http://fretbursts.readthedocs.org/en/latest/getting_started.html).
 
 
 View Online
 -----------
 
-Your can read each tutorial online at the following links:
+You can read FRETBursts notebooks online at the following links:
 
 * [FRETBursts - us-ALEX smFRET burst analysis](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20us-ALEX%20smFRET%20burst%20analysis.ipynb) *(start here)*
 * [FRETBursts - ns-ALEX example](http://nbviewer.jupyter.org/github/tritemio/FRETBursts_notebooks/blob/master/notebooks/FRETBursts%20-%20ns-ALEX%20example.ipynb)
