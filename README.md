@@ -8,7 +8,7 @@ This repository contains Jupyter Notebook tutorials for the
 [FRETBursts](http://tritemio.github.io/FRETBursts/) burst analysis software.
 The same notebooks are included in the
 [FRETBursts source](https://github.com/tritemio/FRETBursts/tree/master/notebooks)
-but the version here contains all the execution outputs (text, tables and figures)
+but the version found here contains all the execution outputs (text, tables and figures)
 and are therefore easier to read.
 
 Download
